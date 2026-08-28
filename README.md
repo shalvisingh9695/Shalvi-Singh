@@ -13,4 +13,5 @@ Preparing for Software Developer Roles
 - Database:MongoDB
 
 ## Connect with me
-- LinkedIN
+- LinkedIN:
+- www.linkedin.com/in/shalvi-singh-aa7267309
